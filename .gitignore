@@ -27,6 +27,7 @@ share/python-wheels/
 MANIFEST
 .DS_Store
 data_sample/
+data/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
